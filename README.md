@@ -11,6 +11,10 @@
 - Переключение между темной и светлой темой
 - Анимации при удалении из избранного
 
+## Скачать APK
+
+[Скачать APK (release)](https://drive.google.com/uc?export=download&id=1bSJz9wVigv5QNx-rym0NbfIMN53BUJO2)
+
 ## Установка
 
 ```bash
