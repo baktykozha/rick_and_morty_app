@@ -1,16 +1,22 @@
-# flutter_projects
+# Rick and Morty Flutter App
 
-App that uses Rick and Morty API.
+Простое приложение на Flutter, использующее публичный API Rick and Morty для отображения списка персонажей.
 
-## Getting Started
+## Возможности
 
-This project is a starting point for a Flutter application.
+- Загрузка персонажей с пагинацией
+- Кэширование данных с помощью Hive
+- Поддержка офлайн-режима
+- Добавление и удаление персонажей в избранное
+- Переключение между темной и светлой темой
+- Анимации при удалении из избранного
 
-A few resources to get you started if this is your first Flutter project:
+## Снимки экрана
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+_Скриншоты можно добавить при необходимости_
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Установка
+
+```bash
+flutter pub get
+flutter run
